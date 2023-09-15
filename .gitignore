@@ -2,6 +2,13 @@
 /public/build
 /public/hot
 /public/storage
+/public/aiimages
+/public/assets
+/public/db
+/public/images
+/public/speeches
+/public/static
+/public/video
 /storage/*.key
 /vendor
 .env
